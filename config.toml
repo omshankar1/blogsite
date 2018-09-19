@@ -9,7 +9,7 @@ paginate        = 6
   title       = "Shankar's Blogging Site"
   subtitle    = "Shankar Nagarajan's technical blogs"
 
-  cover       = "img/blog-cover.jpg"
+  cover       = ""
   description = "My Awesome site for test"
   metaDescription = ""
   googleAnalytics = ""
@@ -28,8 +28,8 @@ paginate        = 6
   author = "Shankar"
   authorAvatar = ""
   authorLocation = "Sydney, Aus"
-  authorWebsite = "https://eueung.github.io"
-  authorDescription = "Describe yourself.."
+  authorWebsite = ""
+  authorDescription = ""
 
   pageNotFoundTitle = "404 - Page not found"
 
