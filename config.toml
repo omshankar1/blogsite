@@ -26,7 +26,7 @@ paginate        = 6
   orgDescription = ""
 
   author = "Shankar"
-  authorAvatar = "img/ghost-icon.png"
+  authorAvatar = ""
   authorLocation = "Sydney, Aus"
   authorWebsite = "https://eueung.github.io"
   authorDescription = "Describe yourself.."
