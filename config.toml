@@ -1,0 +1,60 @@
+baseurl         = ""
+theme           = "casper-two"
+languageCode    = "en-US"
+disqusShortname = ""
+paginate        = 6
+#SectionPagesMenu = "main"
+
+[params]
+  title       = "Shankar's Blogging Site"
+  subtitle    = "Shankar Nagarajan's technical blogs"
+
+  cover       = "img/blog-cover.jpg"
+  description = "My Awesome site for test"
+  metaDescription = ""
+  googleAnalytics = ""
+  customCSS = []
+  RSSLink = ""
+
+  twitterName = "faketryghost"
+  fbName = "fakeghost"
+  githubName = "omshankar1"
+
+  logo = ""
+  orgName = "NS"
+  orgWebsite = ""
+  orgDescription = ""
+
+  author = "Shankar"
+  authorAvatar = "img/ghost-icon.png"
+  authorLocation = "Sydney, Aus"
+  authorWebsite = "https://eueung.github.io"
+  authorDescription = "Describe yourself.."
+
+  pageNotFoundTitle = "404 - Page not found"
+
+  #casper or caspertwo
+  singleViewStyle = "casper"
+
+[permalinks]
+  post = "/:slug/"
+
+[[menu.main]]
+  name = "Main"
+  url = "/"
+  weight = 200
+
+[[menu.main]]
+  name = "Go"
+  url = "/tags/golang/"
+  weight = 100
+
+[[menu.main]]
+  name = "Programming Languages"
+  url = "/categories/food/"
+  weight = 99
+
+[[menu.main]]
+  name = "External"
+  url = "https://google.com/"
+  weight = 95
